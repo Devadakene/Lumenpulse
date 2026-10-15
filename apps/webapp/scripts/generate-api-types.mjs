@@ -25,6 +25,10 @@ const schemaNames = [
   'ContributorFeedResponseDto',
   'AssetBalanceWithCurrencyDto',
   'PortfolioSummaryWithCurrencyResponseDto',
+  'ChartMetaDto',
+  'ChartDataPointDto',
+  'CreateExportJobDto',
+  'ExportJobResponseDto',
 ];
 
 // Types live inside `components['schemas']`, so references must be qualified.
